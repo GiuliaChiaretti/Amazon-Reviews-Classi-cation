@@ -12,3 +12,5 @@ Per installarle: pip install -r requirements.txt.
 Il notebook Preprocess concerne i lavori di normalizzazione e preprocessing e di text representation. A conclusione delle operazioni, il notebook persiste due file necessari alla fase di modeling.
 
 Nel notebook Classification sono stati implementati due modelli: una Random Forest e un MLP.
+
+Link diretto alle slide di presentazione del progetto: https://prezi.com/view/RprAFigwtg86LXqKWSga/
